@@ -1,0 +1,8 @@
+git branch -avv 
+  bug-fix-revert                57094ac [origin/bug-fix-revert] Add pull request verification output
+  bug-fix-typo                  5ca3e01 [origin/bug-fix-typo] Fix copyright year typo
+* main                          b0d0ff7 [origin/main] Add branch merge verification output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 57094ac Add pull request verification output
+  remotes/origin/bug-fix-typo   5ca3e01 Fix copyright year typo
+  remotes/origin/main           b0d0ff7 Add branch merge verification output
